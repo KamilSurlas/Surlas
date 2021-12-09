@@ -7,5 +7,6 @@ Zmiana na ge³ezi master 1
 Zmiana na ge³ezi master 2
 Zmiana kolejna
 Zmiana kolejna2
+zmiana test
 
 
